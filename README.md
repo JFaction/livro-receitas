@@ -4,6 +4,6 @@ Olá! Bem vindo ao meu livro de receitas :rabbit:
 
 
 
-1 KG de Frango
+Neste projeto será demonstrado o passo a passo para ser feito um Strogonoff.
 
-200ml de oleo
+Espero que gostem! :happy:
